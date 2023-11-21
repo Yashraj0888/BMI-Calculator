@@ -2,6 +2,8 @@ const btn=document.querySelector('.btn');
 const result=document.querySelector('.result')
 const image=document.querySelector('.image')
 const comp=document.querySelector('.compliment')
+const hght=document.querySelector(".height")
+const wght=document.querySelector(".weight")
 
 
 btn.addEventListener('click',(e)=>{
@@ -35,4 +37,24 @@ btn.addEventListener('click',(e)=>{
         img.src = "fat.png";
         image.appendChild(img);
     }
+    if(height!=""&&weight!=""){
+        image.style.display="block";
+        btn.disabled = true;
+    }
+    hght.addEventListener('click',()=>{
+        image.innerHTML=""
+        result.innerHTML=""
+        comp.innerHTML=""
+        btn.disabled = false;
+    })
+    wght.addEventListener('click',()=>{
+        image.innerHTML=""
+        result.innerHTML=""
+        comp.innerHTML=""
+        btn.disabled = false;
+    })
+
+        
+    
+    
 })
