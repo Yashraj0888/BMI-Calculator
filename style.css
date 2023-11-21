@@ -29,12 +29,12 @@ form{
 .heading{
     padding-top:2% ;
     color: #FEF5ED;
-    padding-right: 57%;
+    padding-right: 47%;
     margin-bottom: 20px;
 }
 .container{
     margin-left:8%;
-    width: 25vw;
+    width: 35vw;
     height: 75%;
    
     background-color: #FEFBE7;
@@ -151,7 +151,7 @@ img{
 .btn{
     padding: 5px;
     border-radius: 5px;
-    margin-top: 7.52%;
+    margin-top: 2.52%;
     margin-bottom: 15%;
     
 }
