@@ -28,6 +28,7 @@ form{
 }
 .heading{
     padding-top:2% ;
+    color: #FEF5ED;
     padding-right: 57%;
     margin-bottom: 20px;
 }
@@ -165,6 +166,8 @@ img{
     }
     .heading{
         padding-right: 0;
+        color: #FEF5ED;
+        font-weight: bolder;
     }
     h1{
         font-size: 30px;
