@@ -51,8 +51,8 @@ input{
     margin: 10px;
     height: 30px;
     border-radius: 10px;
-    font-weight: bolder;
-    gap: 2px;
+    font-weight: bold;
+    
 }
 input::placeholder{
     padding: 5px;
