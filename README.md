@@ -13,6 +13,9 @@ A simple and responsive BMI (Body Mass Index) calculator made with HTML, CSS, an
 
 You can see a live demo of the BMI Calculator [here](https://yashraj0888.github.io/BMI-Calculator/).
 
+![Example Image](Screenshot.png)
+
+
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
