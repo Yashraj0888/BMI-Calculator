@@ -50,7 +50,6 @@ To get a local copy up and running, follow these simple steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - Yashraj Singh (https://www.linkedin.com/in/yashraj-singh-55804b253/) - yashraj88813@gmail.com
+Yashraj Singh (https://www.linkedin.com/in/yashraj-singh-55804b253/) - yashraj88813@gmail.com
 
 Project Link: [https://github.com/Yashraj0888/BMI-Calculator](https://github.com/Yashraj0888/BMI-Calculator)
